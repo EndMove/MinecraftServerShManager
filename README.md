@@ -89,7 +89,7 @@ nano server_name.sh
 ````
 Congratulations! Your configuration is complete use the command `cd /home/minecraft` to go to your management directory and the command `./server_name.sh help` to display the script parameters.
 
-## Comment utiliser ?
+## How to use?
 After the installation is complete and a server is created, use this command to move to the EndServ scripts directory: `cd /home/minecraft`.
 When you are in the directory you can access the controls of your server with this command: `./server_name.sh` this will display the help menu.
 
