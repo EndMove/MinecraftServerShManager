@@ -54,7 +54,7 @@ mkdir server_name && cd server_name
 touch eula.txt && echo "eula=true" >> eula.txt
 ````
 
-Now you need to download the `.jar` Sigot, Vanilla, Sponge, ... you want to use as a server and put it in the server_name folder you just created. Once the downloaded `.jar` file renamed it to `server.jar` to do this you can use the command `mv file_name.jar server.jar`.  Once all these manipulations are done your architecture should look like this :
+Now you need to download the `.jar` Spigot, Vanilla, Sponge, ... you want to use as a server and put it in the server_name folder you just created. Once the downloaded `.jar` file renamed it to `server.jar` to do this you can use the command `mv file_name.jar server.jar`.  Once all these manipulations are done your architecture should look like this :
 ````
 ~/home/minecraft
     |-- .gitattributes
